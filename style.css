@@ -320,6 +320,10 @@ footer {
     margin-top: 30px;
    }
 
+   #hamburger-icon{
+    cursor: pointer;
+   }
+
     .discover-now {
         position: static;
         bottom: -20%;
