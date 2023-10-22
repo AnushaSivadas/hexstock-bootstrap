@@ -336,7 +336,7 @@ footer {
         flex-direction: column;
         position: fixed;
         top: 8%;
-        right: 0;
+        right: -300px;
         width: 150px;
         padding: 2rem;
         padding-bottom: 1rem;
@@ -346,7 +346,7 @@ footer {
     }
 
     .middle-nav.active {
-        right: -300px;
+        right: 0px;
     }
 
 }
