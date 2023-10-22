@@ -363,4 +363,7 @@ footer {
     .right-nav span {
         display: none;
     }
+    .cards{
+        padding: 3rem!important;
+    }
 }
